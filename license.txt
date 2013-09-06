@@ -383,3 +383,6 @@ The source code for any program binaries or compressed scripts that are
 included with WordPress can be freely obtained at the following URL:
 
 	http://wordpress.org/download/source/
+	
+	
+//I added this for testing git
